@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![This is an image](https://github.com/chandsureja/chandsureja/blob/main/background.jpg)
+![This is an image](https://github.com/chandsureja/chandsureja/blob/main/Background.jpg)
 <!--
 **chandsureja/chandsureja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
