@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hey, I'm Chand :wave:
 
 ![This is an image](https://github.com/chandsureja/chandsureja/blob/main/Background.jpg)
+
+I am Senior at politechnika warszawska. I am an enthusiast who loves to solve computational mathematical problems using machine learning methods, building numerical solvers, data analysis using statistical methods, Solving problems using non-classical methods. Currently learning more about CFD solvers, APIs, Computational methods for PDEs solvers, and NLP 
 <!--
 **chandsureja/chandsureja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
