@@ -6,7 +6,7 @@ I am Senior :man_student: at politechnika warszawska. I am an enthusiast :man_te
 
 - 🔭 I’m currently working on Deep Neural Networks for PDEs
 - 🌱 I’m currently learning CFD solvers, CUDA, Computational methods for PDEs solvers, and NLP
-- 🧐 Interested in everything Math
+- 🧐 Interested in Mathematics
 - 👯 I’m looking to collaborate on Advanced Computational Mathematics & Machine Learning projects.
 
   
