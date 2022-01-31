@@ -2,6 +2,8 @@
 
 ![This is an image](https://github.com/chandsureja/chandsureja/blob/main/Background.jpg)
 
+![Visitor Count](https://profile-counter.glitch.me/chandsureja/count.svg)
+
 I am Senior :man_student: at politechnika warszawska. I am an enthusiast :man_technologist: who loves to solve computational mathematical problems using machine learning methods, building numerical solvers, data analysis using statistical methods, Solving problems using non-classical methods. 
 
 - 🔭 I’m currently working on Deep Neural Networks for PDEs
