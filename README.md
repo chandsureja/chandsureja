@@ -2,14 +2,6 @@
 
 ![This is an image](https://github.com/chandsureja/chandsureja/blob/main/Background.jpg)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
-</a>
-
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 
 
@@ -44,3 +36,4 @@ I am Senior :man_student: at politechnika warszawska. I am an enthusiast :man_te
 ### Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chandkumar-sureja-275428171/)
 
+![](https://hit.yhype.me/github/profile?user_id=59356364)
