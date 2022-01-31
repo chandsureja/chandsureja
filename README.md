@@ -2,7 +2,9 @@
 
 ![This is an image](https://github.com/chandsureja/chandsureja/blob/main/Background.jpg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/chandsureja/chandsureja)]
+[GitHub Profile Views Counter]: https://github.com/chandsureja/chandsureja
+
+
 
 I am Senior :man_student: at politechnika warszawska. I am an enthusiast :man_technologist: who loves to solve computational mathematical problems using machine learning methods, building numerical solvers, data analysis using statistical methods, Solving problems using non-classical methods. 
 
